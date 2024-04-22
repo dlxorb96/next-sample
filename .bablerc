@@ -1,0 +1,9 @@
+{
+    "presets" : ["next/bable"],
+    "plugins" : [
+        [
+            "@babel/plugin-proposal-pipeline-opeator",
+            {"proposal" : "fsharp"}
+        ]
+    ]
+}
